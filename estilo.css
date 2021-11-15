@@ -1,0 +1,192 @@
+* {
+	margin:0;
+	padding: 0;
+}
+
+
+#topo{
+    background-image: url(baner.jpg);
+	width: 1000px;
+	height: 300px;
+}
+
+#tudo {
+	width: 1000px;
+	border: 1px solid #555;
+	margin: 40px auto;
+}
+a:link{
+	color:#696;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #C93;
+	text-decoration: underline;
+}
+
+#menu {  
+   background-color: #F00;
+	width: 1000px;
+	height: 60px;
+}
+
+#menu ul {
+	list-style-type: none;
+	text-transform: uppercase;
+}
+
+#menu ul li {
+	float: left;
+}
+
+#menu ul li a {
+  
+	font-size: 20px;
+	background-color:#F00;
+	width: 229px;
+	height: 50px;
+
+	display: block;
+	text-align: center;
+	padding: 4px;
+	color: #FFF;
+}
+
+#menu ul li a:hover{
+	color: #F00;
+	background-color:#EEE;
+	text-shadow: 1px 1px 1px #555;
+}
+#rodape{
+	width: 1000px;
+	height: 50px;
+	background-color: rgb(42, 199, 112);
+	text-transform: uppercase;
+	text-align: center;
+	
+}
+#imge img{
+	width: 300px;
+	height: 300px;
+}
+
+
+#conteudo{
+	float: left;
+	width: 700px;
+	height: 7500px;
+	border: 1px solid #555;
+	display: inline-block;
+	margin-left: 50px;
+	background-color:#c3d2fa ;
+	
+		
+	
+}
+
+#coluna{
+	background-color: #baffbb;
+	width: 400px;
+	height: 1200px;
+	border: 1px solid #555;
+	float: right;
+	
+}
+.animal{
+	font-size: 25px;
+}
+#panimais{
+	font-size: 25px;
+}
+
+#h2c{
+	text-transform: uppercase;
+	color: #69e07d;
+	text-align: center;
+}
+
+#bodya{
+	background-color:#080cd4;
+}
+
+
+#bodyi{
+	background-color: #383be8;
+}
+#imge{
+	background-color: #FFF;
+}
+
+
+
+#h2cont{
+	text-transform: uppercase;
+	text-align: center;
+	color: #f06807;
+}
+
+h2{
+	text-align: center;
+}
+
+.imgh{
+	display: block; 
+	margin-left: auto; 
+	margin-right: auto
+   }
+
+#bodyh{
+	background-color: #57b55f;
+}
+
+.ph{
+	text-align: center;
+	font-size: 24px;
+}
+
+#h2h{
+	text-transform: uppercase;
+	color: #1d3959;
+}
+#te{
+	color: #1b7a00;
+}
+
+#md{
+	color: #40f5f2;
+}
+
+#ch{
+	color: #FFF;
+}
+
+#ca{
+	color: #f7e225;
+}
+#cm{
+	color: #929078;
+}
+#ab{
+	color: #fff200;
+}
+#sobre{
+	margin: 40px auto;
+	background-color: aquamarine;
+	width: 1000px;
+	height: 2000px;
+
+}
+
+.ps{
+	font-size: 24px;
+	text-align: center;
+}
+
+#hs{
+	
+}
+
+#bodys{
+	background-color: #5a56db;
+}
